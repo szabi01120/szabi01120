@@ -1,14 +1,14 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Szabolcs Hajnal</h1>
 <h3 align="center">Web developer, software developer from Hungary</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szabi01120&label=Profile%20views&color=0e75b6&style=flat" alt="szabi01120" /> </p>
 
-- 🌱 I’m currently learning **React, Angular, Facebook automatization**
+- 🌱 I’m currently learning **React, Angular, Facebook automatization with Python**
 
-- 💬 Ask me about **C, C++, C# principally**
+- 💬 Ask me about **C, C++, C# and FullStack principally**
 
 - 📫 How to reach me **hajnalszabolcs0@gmail.com**
 
