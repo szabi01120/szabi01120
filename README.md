@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Szabolcs Hajnal</h1>
 <h3 align="center">Web developer, software developer from Hungary</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szabi01120&label=Profile%20views&color=0e75b6&style=flat" alt="szabi01120" /> </p>
 
