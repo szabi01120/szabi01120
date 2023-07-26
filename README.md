@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **hajnalszabolcs0@gmail.com**
 
+- 🎂 Currently I'm **010100 years old**
+
 - ⚡ Fun fact **I have a strong social life haha**
 
 <h3 align="left">Connect with me:</h3>
