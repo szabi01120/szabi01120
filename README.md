@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React, Vue, Web development with Python**
 
-- 💬 Ask me about **C, C++, C# and FullStack principally**
+- 💬 Ask me about **C, C++, Python and FullStack principally**
 
-- 📫 How to reach me **hajnalszabolcs0@gmail.com**
+- 📫 How you can reach me? **hajnalszabolcs0@gmail.com**
 
 - 🎂 Currently I'm **010101 years old**
 
