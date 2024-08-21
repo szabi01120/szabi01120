@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C, C++, Python and FullStack principally**
 
-- 📫 How you can reach me? **hajnalszabolcs0@gmail.com**
+- 📫 How can you reach me? **hajnalszabolcs0@gmail.com**
 
 - 🎂 Currently I'm **010101 years old**
 
